@@ -1,2 +1,3 @@
-# Ad-blocker
-It is an free and open source ad blocker for phone
+# AdBlock Browser App
+
+A simple Flutter browser with ad-blocking capabilities.
